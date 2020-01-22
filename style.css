@@ -4,7 +4,7 @@ background: linear-gradient(122deg, rgba(195,215,247,1) 8%, rgba(168,230,250,1) 
 }
 
 .bg-grey {
-  background-color: rgb(198, 206, 221);
+  background-color: rgb(217, 226, 241);
 }
 
 .logo-font {
@@ -15,6 +15,7 @@ background: linear-gradient(122deg, rgba(195,215,247,1) 8%, rgba(168,230,250,1) 
   color: white;
   text-shadow: 2px 2px 4px #000000;
 }
+
 .row {
   padding-top: 1rem;
 }
@@ -22,6 +23,12 @@ background: linear-gradient(122deg, rgba(195,215,247,1) 8%, rgba(168,230,250,1) 
 .extra-padding {
   padding: 1rem;
 }
+
 .text-small {
   font-size: x-small;
+}
+
+.card:hover{
+  box-shadow: 0px 0px 22px -3px #000000
+
 }
